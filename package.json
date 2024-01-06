@@ -1,0 +1,11 @@
+{
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^your_version_here",
+    "mongoose": "^your_version_here",
+    "body-parser": "^your_version_here"
+  }
+}
